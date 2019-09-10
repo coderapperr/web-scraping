@@ -1,0 +1,621 @@
+Country,Capital,Capital_Latitude,Capital_Longitude,Timezone,time,summary,icon,precipIntensity,precipProbability,temperature,apparentTemperature,dewPoint,humidity,pressure,windSpeed,windGust,windBearing,cloudCover,uvIndex,visibility,ozone
+,,,,,,,,,,,,,,,,,,,,,
+Somaliland,Hargeisa,9.55,44.05,Africa/Mogadishu,1563695810,Windy and Overcast,cloudy,0,0,77.52,77.52,57.01,0.49,1007.31,28.75,35.75,241,0.94,6,6.216,269.9
+,,,,,,,,,,,,,,,,,,,,,
+South Georgia and South Sandwich Islands,King Edward Point,-54.283333,-36.5,Atlantic/South_Georgia,1563695813,Partly Cloudy,partly-cloudy-night,0,0.006,0.25,rain,30.49,19.74,25.43,0.81,994.15,14.77,18.43,235,0.35,0
+,,,,,,,,,,,,,,,,,,,,,
+French Southern and Antarctic Lands,Port-aux-Français,-49.35,70.216667,Indian/Kerguelen,1563695815,Possible Light Rain,rain,0,0.04,0.62,rain,42.42,35.92,40.98,0.95,991.54,11.89,21.98,312,1,1
+,,,,,,,,,,,,,,,,,,,,,
+Palestine,Jerusalem,31.76666667,35.233333,Asia/Jerusalem,1563695817,Partly Cloudy,partly-cloudy-day,0,0,78.89,79.26,63.43,0.59,1010.14,0.01,6.61,288,0.26,8,6.216,286.9
+,,,,,,,,,,,,,,,,,,,,,
+Aland Islands,Mariehamn,60.116667,19.9,Europe/Mariehamn,1563695819,Clear,clear-day,0,0,70.53,70.53,51.68,0.51,1015.92,13.89,16.43,142,0.11,4,6.216,329.1
+,,,,,,,,,,,,,,,,,,,,,
+Nauru,Yaren,-0.5477,166.920867,Pacific/Nauru,1563695820,Humid and Partly Cloudy,partly-cloudy-night,0,0,84.63,91.03,72.74,0.68,1008.34,5.54,6.76,107,0.36,0,10,254.4
+,,,,,,,,,,,,,,,,,,,,,
+Saint Martin,Marigot,18.0731,-63.0822,America/Marigot,1563695823,Humid and Partly Cloudy,partly-cloudy-night,0,0.007,0.1,rain,82.02,87.4,72.96,0.74,1015.02,10.35,19.94,79,0.27,0
+,,,,,,,,,,,,,,,,,,,,,
+Tokelau,Atafu,-9.166667,-171.833333,Pacific/Fakaofo,1563695824,Humid and Mostly Cloudy,partly-cloudy-night,0,0.077,0.27,rain,83.52,91.58,75.46,0.77,1009.64,10.21,11.02,95,0.63,0
+,,,,,,,,,,,,,,,,,,,,,
+Western Sahara,El-Aaiún,27.153611,-13.203333,Africa/El_Aaiun,1563695826,Overcast,cloudy,0,0,69.74,70.08,62.51,0.78,1017.95,20.49,21.02,30,1,1,6.216,298.7
+,,,,,,,,,,,,,,,,,,,,,
+Afghanistan,Kabul,34.51666667,69.183333,Asia/Kabul,1563695828,Partly Cloudy,partly-cloudy-day,0,0,93.74,93.74,38.47,0.15,1003.29,10.03,10.7,351,0.19,11,6.216,282.1
+,,,,,,,,,,,,,,,,,,,,,
+Albania,Tirana,41.31666667,19.816667,Europe/Tirane,1563695830,Clear,clear-day,0,0,80.99,82.27,62.96,0.54,1019.37,2.3,3.46,261,0,6,6.216,316.9
+,,,,,,,,,,,,,,,,,,,,,
+Algeria,Algiers,36.75,3.05,Africa/Algiers,1563695832,Humid,clear-day,0,0,0,79.17,83.4,75.88,0.9,1015.95,11.33,11.33,317,0,3,6.12
+,,,,,,,,,,,,,,,,,,,,,
+American Samoa,Pago Pago,-14.26666667,-170.7,Pacific/Apia,1563695833,Humid,clear-night,0,0,77.34,78.88,73.26,0.87,1010.36,0.91,4.54,293,0.11,0,9.997,243.8
+,,,,,,,,,,,,,,,,,,,,,
+Andorra,Andorra la Vella,42.5,1.516667,Europe/Andorra,1563695835,Clear,clear-day,0,0,73.8,73.8,45.83,0.37,1021.87,3.06,6.59,176,0,3,10,310.8
+,,,,,,,,,,,,,,,,,,,,,
+Angola,Luanda,-8.833333333,13.216667,Africa/Luanda,1563695837,Partly Cloudy,partly-cloudy-day,0,0,0,72.19,73.2,68.11,0.87,1017.64,5.07,6.41,121,0.32,3,3.108
+,,,,,,,,,,,,,,,,,,,,,
+Anguilla,The Valley,18.21666667,-63.05,America/Anguilla,1563695839,Humid and Partly Cloudy,partly-cloudy-night,0,0.01,0.11,rain,82.11,87.38,72.69,0.73,1015.09,10.4,20,81,0.26,0
+,,,,,,,,,,,,,,,,,,,,,
+Antigua and Barbuda,Saint John's,17.11666667,-61.85,America/Antigua,1563695841,Mostly Cloudy,partly-cloudy-night,0,0.007,0.13,rain,79.26,82.41,71.33,0.77,1014.61,4.39,18.56,62,0.56,0
+,,,,,,,,,,,,,,,,,,,,,
+Argentina,Buenos Aires,-34.58333333,-58.666667,America/Argentina/Buenos_Aires,1563695843,Overcast,cloudy,0,0,69.34,69.47,60.83,0.74,1001.74,14.09,31.23,356,1,0,6.373,285.7
+,,,,,,,,,,,,,,,,,,,,,
+Armenia,Yerevan,40.16666667,44.5,Asia/Yerevan,1563695845,Partly Cloudy,partly-cloudy-day,0,0,92.47,92.47,48.87,0.23,1010.36,6.23,10.99,168,0.17,9,6.216,281.4
+,,,,,,,,,,,,,,,,,,,,,
+Aruba,Oranjestad,12.51666667,-70.033333,America/Aruba,1563695847,Humid and Partly Cloudy,partly-cloudy-night,0,0,80.92,85.97,73.6,0.78,1011.42,12.79,30.4,109,0.19,0,6.216,279.7
+,,,,,,,,,,,,,,,,,,,,,
+Australia,Canberra,-35.26666667,149.133333,Australia/Sydney,1563695849,Clear,clear-night,0,0,51.87,51.87,37.14,0.57,1014.32,9.69,17.01,328,0,0,6.216,287.9
+,,,,,,,,,,,,,,,,,,,,,
+Austria,Vienna,48.2,16.366667,Europe/Vienna,1563695850,Mostly Cloudy,partly-cloudy-day,0,0.001,0.04,rain,79.26,79.26,58.65,0.49,1017.89,8.89,18.99,307,0.66,3
+,,,,,,,,,,,,,,,,,,,,,
+Azerbaijan,Baku,40.38333333,49.866667,Asia/Baku,1563695852,Clear,clear-day,0,0,87.34,90.77,67.76,0.52,1012.82,21.1,22.64,9,0,10,6.216,279.8
+,,,,,,,,,,,,,,,,,,,,,
+Bahamas,Nassau,25.08333333,-77.35,America/Nassau,1563695853,Mostly Cloudy,partly-cloudy-night,0,0.001,0.02,rain,76.93,77.96,69.27,0.77,1016.95,4.91,12.52,227,0.68,0
+,,,,,,,,,,,,,,,,,,,,,
+Bahrain,Manama,26.23333333,50.566667,Asia/Bahrain,1563695855,Clear,clear-day,0,0,96.13,104.01,71.06,0.45,1000.14,14.04,15.15,314,0,12,6.216,284.3
+,,,,,,,,,,,,,,,,,,,,,
+Bangladesh,Dhaka,23.71666667,90.4,Asia/Dhaka,1563695858,Humid and Foggy,fog,0,0.022,0.12,rain,95.17,115.99,80.42,0.63,1002.47,8.12,13.09,241,0.48,7
+,,,,,,,,,,,,,,,,,,,,,
+Barbados,Bridgetown,13.1,-59.616667,America/Barbados,1563695862,Humid and Mostly Cloudy,partly-cloudy-night,0,0.002,0.05,rain,79.67,83.68,73.4,0.81,1012.99,16.74,18.95,103,0.73,0
+,,,,,,,,,,,,,,,,,,,,,
+Belarus,Minsk,53.9,27.566667,Europe/Minsk,1563695864,Clear,clear-day,0,0.003,0.02,rain,77.71,77.71,56.03,0.47,1018.06,1.15,4.87,223,0,5
+,,,,,,,,,,,,,,,,,,,,,
+Belgium,Brussels,50.83333333,4.333333,Europe/Brussels,1563695876,Partly Cloudy,partly-cloudy-day,0,0,67.69,67.69,57.35,0.69,1020.41,7.7,13.63,256,0.44,2,6.216,340.8
+,,,,,,,,,,,,,,,,,,,,,
+Belize,Belmopan,17.25,-88.766667,America/Belize,1563695879,Humid and Mostly Cloudy,partly-cloudy-night,0,0.006,0.12,rain,76.32,78.11,74.71,0.95,1012.17,2.48,8.77,77,0.78,0
+,,,,,,,,,,,,,,,,,,,,,
+Benin,Porto-Novo,6.483333333,2.616667,Africa/Porto-Novo,1563695882,Humid and Mostly Cloudy,partly-cloudy-day,0,0,0,78.25,81.12,75.45,0.91,1014.56,6.59,15.13,227,0.53,2,4.346
+,,,,,,,,,,,,,,,,,,,,,
+Bermuda,Hamilton,32.28333333,-64.783333,Atlantic/Bermuda,1563695883,Humid and Mostly Cloudy,partly-cloudy-night,0,0,0,81.84,88.43,75.12,0.8,1018.78,11.14,14.77,324,0.85,0,6.289
+,,,,,,,,,,,,,,,,,,,,,
+Bhutan,Thimphu,27.46666667,89.633333,Asia/Thimphu,1563695886,Mostly Cloudy,partly-cloudy-day,0,0.031,0.12,rain,74.45,74.94,64.48,0.71,1003.16,5.55,6.2,8,0.86,6
+,,,,,,,,,,,,,,,,,,,,,
+Bolivia,La Paz,-16.5,-68.15,America/La_Paz,1563695888,Mostly Cloudy,partly-cloudy-night,0,0.001,0.06,rain,35.61,32.75,30.65,0.82,1016.99,3.54,5.16,329,0.7,0
+,,,,,,,,,,,,,,,,,,,,,
+Bosnia and Herzegovina,Sarajevo,43.86666667,18.416667,Europe/Sarajevo,1563695889,Partly Cloudy,partly-cloudy-day,0,0,73.71,73.71,57.71,0.57,1020.49,1.26,2.14,24,0.17,5,6.216,314.6
+,,,,,,,,,,,,,,,,,,,,,
+Botswana,Gaborone,-24.63333333,25.9,Africa/Gaborone,1563695891,Clear,clear-day,0,0,61.33,61.33,22.29,0.22,1028.14,7.47,12.92,114,0,3,6.216,266.8
+,,,,,,,,,,,,,,,,,,,,,
+Brazil,Brasilia,-15.78333333,-47.916667,America/Sao_Paulo,1563695893,Mostly Cloudy,partly-cloudy-night,0,0,57.82,57.82,49.07,0.73,1018.91,10.58,28.62,89,0.68,0,6.216,247.7
+,,,,,,,,,,,,,,,,,,,,,
+British Virgin Islands,Road Town,18.41666667,-64.616667,America/Tortola,1563695898,Humid and Partly Cloudy,partly-cloudy-night,18,252,0,0,80.54,85.12,73.16,0.78,1015.58,14.85,14.85,100,0.15,0
+,,,,,,,,,,,,,,,,,,,,,
+Brunei Darussalam,Bandar Seri Begawan,4.883333333,114.933333,Asia/Brunei,1563695900,Humid and Mostly Cloudy,partly-cloudy-day,0,0.01,0.14,rain,88.2,101.74,77.9,0.72,1005.99,6.43,10.28,300,0.74,3
+,,,,,,,,,,,,,,,,,,,,,
+Bulgaria,Sofia,42.68333333,23.316667,Europe/Sofia,1563695902,Clear,clear-day,0,0,74.27,74.27,55.7,0.52,1020.4,1.21,2.54,45,0,6,6.216,318.3
+,,,,,,,,,,,,,,,,,,,,,
+Burkina Faso,Ouagadougou,12.36666667,-1.516667,Africa/Ouagadougou,1563695907,Humid,clear-day,0,0.004,0.06,rain,74.97,76.73,74.06,0.97,1013.37,2.66,9.37,151,0.04,2
+,,,,,,,,,,,,,,,,,,,,,
+Myanmar,Rangoon,16.8,96.15,Asia/Yangon,1563695909,Possible Light Rain and Humid,rain,0,0.03,0.33,rain,84.01,93.81,76.98,0.79,1005.17,10.78,13.88,150,1,4
+,,,,,,,,,,,,,,,,,,,,,
+Burundi,Bujumbura,-3.366666667,29.35,Africa/Bujumbura,1563695911,Partly Cloudy,partly-cloudy-day,0,0.001,0.03,rain,76.04,76.04,59.16,0.56,1014.83,3.07,6.23,249,0.36,6
+,,,,,,,,,,,,,,,,,,,,,
+Cambodia,Phnom Penh,11.55,104.916667,Asia/Phnom_Penh,1563695914,Partly Cloudy,partly-cloudy-day,0,0.027,0.19,rain,93.74,101.65,71.67,0.49,1006.11,4.52,9.79,277,0.44,5
+,,,,,,,,,,,,,,,,,,,,,
+Cameroon,Yaounde,3.866666667,11.516667,Africa/Douala,1563695924,Mostly Cloudy,partly-cloudy-day,0,0.001,0.07,rain,71.45,72.76,69.97,0.95,1015.42,5.38,9.68,236,0.73,3
+,,,,,,,,,,,,,,,,,,,,,
+Canada,Ottawa,45.41666667,-75.7,America/Toronto,1563695930,Overcast,cloudy,5,97,0,0,74.26,75.13,67.58,0.8,1004.48,5.64,17.59,319,0.91,0
+,,,,,,,,,,,,,,,,,,,,,
+Cape Verde,Praia,14.91666667,-23.516667,Atlantic/Cape_Verde,1563695932,Mostly Cloudy,partly-cloudy-day,0,0.001,0.02,rain,75,75.87,67.73,0.78,1013.91,9.35,9.35,14,0.74,0
+,,,,,,,,,,,,,,,,,,,,,
+Cayman Islands,George Town,19.3,-81.383333,America/Cayman,1563695934,Humid and Mostly Cloudy,partly-cloudy-night,0,0.042,0.19,rain,82.41,90.8,76.9,0.83,1013.02,15.36,18.43,86,0.81,0
+,,,,,,,,,,,,,,,,,,,,,
+Central African Republic,Bangui,4.366666667,18.583333,Africa/Bangui,1563695937,Humid,clear-day,0,0.002,0.04,rain,78.37,79.73,72.2,0.81,1013.88,7.28,7.28,249,0.07,6
+,,,,,,,,,,,,,,,,,,,,,
+Chad,N'Djamena,12.1,15.033333,Africa/Ndjamena,1563695939,Possible Light Rain,rain,0,0.048,0.32,rain,74.38,75.56,69.9,0.86,1012.88,2.43,11.36,339,0.19,5
+,,,,,,,,,,,,,,,,,,,,,
+Chile,Santiago,-33.45,-70.666667,America/Santiago,1563695941,Overcast,cloudy,0,0.004,0.17,rain,47.07,43.12,38.79,0.73,1012.93,8.18,8.18,136,1,0
+,,,,,,,,,,,,,,,,,,,,,
+China,Beijing,39.91666667,116.383333,Asia/Shanghai,1563695943,Humid and Mostly Cloudy,partly-cloudy-day,0,0,102.36,113.56,72.47,0.39,1000.41,12.54,12.54,182,0.52,3,6.216,303.1
+,,,,,,,,,,,,,,,,,,,,,
+Christmas Island,The Settlement,-10.41666667,105.716667,Indian/Christmas,1563695950,Overcast,cloudy,0,0.001,0.04,rain,79.16,82.31,71.61,0.78,1010.26,16.83,22.09,112,1,3
+,,,,,,,,,,,,,,,,,,,,,
+Cocos Islands,West Island,-12.16666667,96.833333,Indian/Cocos,1563695952,Humid and Mostly Cloudy,partly-cloudy-day,0,0.002,0.1,rain,81.5,86.86,73.44,0.77,1011.3,14.66,28.5,114,0.54,4
+,,,,,,,,,,,,,,,,,,,,,
+Colombia,Bogota,4.6,-74.083333,America/Bogota,1563695953,Foggy,fog,0,0.017,0.2,rain,50.54,50.54,48.06,0.91,1016.84,7.94,8.64,65,0.76,0
+,,,,,,,,,,,,,,,,,,,,,
+Comoros,Moroni,-11.7,43.233333,Indian/Comoro,1563695956,Partly Cloudy,partly-cloudy-day,0,0,80.41,82.53,66.1,0.62,1016.86,8.59,10.81,235,0.18,7,6.216,253.3
+,,,,,,,,,,,,,,,,,,,,,
+Democratic Republic of the Congo,Kinshasa,-4.316666667,15.3,Africa/Kinshasa,1563695962,Mostly Cloudy,partly-cloudy-day,0,0,71.96,72.7,66.07,0.82,1016.09,3.19,8,194,0.55,3,2.488,269.7
+,,,,,,,,,,,,,,,,,,,,,
+Republic of Congo,Brazzaville,-4.25,15.283333,Africa/Brazzaville,1563695964,Mostly Cloudy,partly-cloudy-day,0,0,71.85,72.61,66.26,0.83,1016.08,3.51,8.06,193,0.58,3,2.488,269.8
+,,,,,,,,,,,,,,,,,,,,,
+Cook Islands,Avarua,-21.2,-159.766667,Pacific/Rarotonga,1563695974,Partly Cloudy,partly-cloudy-night,0,0,69.47,69.68,61.52,0.76,1013.26,7.83,9.77,79,0.43,0,6.216,259.1
+,,,,,,,,,,,,,,,,,,,,,
+Costa Rica,San Jose,9.933333333,-84.083333,America/Costa_Rica,1563695979,Foggy,fog,0,0.009,0.09,rain,71.3,71.93,65.13,0.81,1011.41,14.5,14.5,113,0.19,0
+,,,,,,,,,,,,,,,,,,,,,
+Cote d'Ivoire,Yamoussoukro,6.816666667,-5.266667,Africa/Abidjan,1563695991,Overcast,cloudy,0,0.001,0.08,rain,74.13,75.57,71.71,0.92,1014.56,6.15,10.26,227,0.99,1
+,,,,,,,,,,,,,,,,,,,,,
+Croatia,Zagreb,45.8,16,Europe/Zagreb,1563696000,Mostly Cloudy,partly-cloudy-day,0,0,80.43,81.24,60.35,0.5,1018.36,7.89,10.58,252,0.74,3,6.216,319.9
+,,,,,,,,,,,,,,,,,,,,,
+Cuba,Havana,23.11666667,-82.35,America/Havana,1563696003,Partly Cloudy,partly-cloudy-night,90,2,0,0,73.65,75,70.92,0.91,1014.79,5.67,9.97,98,0.42,0
+,,,,,,,,,,,,,,,,,,,,,
+Curaçao,Willemstad,12.1,-68.916667,America/Curacao,1563696006,Partly Cloudy,partly-cloudy-night,0,0,80.95,85.17,71.77,0.74,1011.77,14.67,26.53,120,0.49,0,6.212,278.8
+,,,,,,,,,,,,,,,,,,,,,
+Cyprus,Nicosia,35.16666667,33.366667,Asia/Nicosia,1563696030,Clear,clear-day,0,0,92.6,92.6,54.67,0.28,1008.25,8.21,9.19,344,0,9,6.223,292.3
+,,,,,,,,,,,,,,,,,,,,,
+Czech Republic,Prague,50.08333333,14.466667,Europe/Prague,1563696032,Mostly Cloudy,partly-cloudy-day,0,0.007,0.08,rain,67.85,68.16,61.91,0.81,1018.75,8.98,9.94,185,0.81,3
+,,,,,,,,,,,,,,,,,,,,,
+Denmark,Copenhagen,55.66666667,12.583333,Europe/Copenhagen,1563696033,Mostly Cloudy,partly-cloudy-day,0,0.002,0.08,rain,67.43,67.68,61.36,0.81,1012.55,9.39,16.49,230,0.56,3
+,,,,,,,,,,,,,,,,,,,,,
+Djibouti,Djibouti,11.58333333,43.15,Africa/Djibouti,1563696036,Humid and Mostly Cloudy,partly-cloudy-day,0,0,97.73,107.51,72.41,0.44,1002.52,12.29,12.61,108,0.75,6,6.225,275
+,,,,,,,,,,,,,,,,,,,,,
+Dominica,Roseau,15.3,-61.4,America/Dominica,1563696038,Humid and Partly Cloudy,partly-cloudy-night,0,0.006,0.11,rain,79.61,83.67,73.75,0.82,1013.99,13.5,15.94,83,0.41,0
+,,,,,,,,,,,,,,,,,,,,,
+Dominican Republic,Santo Domingo,18.46666667,-69.9,America/Santo_Domingo,1563696040,Humid and Partly Cloudy,partly-cloudy-night,0,0,74.01,75.61,72.71,0.96,1014.81,5.94,8.85,1,0.3,0,10,284.2
+,,,,,,,,,,,,,,,,,,,,,
+Ecuador,Quito,-0.216666667,-78.5,America/Guayaquil,1563696042,Mostly Cloudy,partly-cloudy-night,0,0,51.33,51.33,48.26,0.89,1011.18,2.72,6.17,4,0.75,0,7.357,257.2
+,,,,,,,,,,,,,,,,,,,,,
+Egypt,Cairo,30.05,31.25,Africa/Cairo,1563696044,Partly Cloudy,partly-cloudy-day,0,0,87.45,89.01,64.45,0.47,1011.27,8.6,11.01,328,0.4,7,6.227,293.3
+,,,,,,,,,,,,,,,,,,,,,
+El Salvador,San Salvador,13.7,-89.2,America/El_Salvador,1563696049,Mostly Cloudy,partly-cloudy-night,0,0,68.49,69.74,68.49,1,1011.31,2.2,9.99,52,0.85,0,6.228,280.5
+,,,,,,,,,,,,,,,,,,,,,
+Equatorial Guinea,Malabo,3.75,8.783333,Africa/Malabo,1563696052,Partly Cloudy,partly-cloudy-day,0,0.004,0.11,rain,77.08,78.44,71.94,0.84,1015.12,5.32,6.19,335,0.44,3
+,,,,,,,,,,,,,,,,,,,,,
+Eritrea,Asmara,15.33333333,38.933333,Africa/Asmara,1563696058,Mostly Cloudy,partly-cloudy-day,0,0.022,0.07,rain,72.07,72.07,50.87,0.47,1006.83,5.92,13.16,338,0.7,7
+,,,,,,,,,,,,,,,,,,,,,
+Estonia,Tallinn,59.43333333,24.716667,Europe/Tallinn,1563696060,Clear,clear-day,0,0,76.21,76.21,54.4,0.47,1017.28,5.4,5.4,283,0,4,6.231,337.5
+,,,,,,,,,,,,,,,,,,,,,
+Ethiopia,Addis Ababa,9.033333333,38.7,Africa/Addis_Ababa,1563696062,Mostly Cloudy,partly-cloudy-day,0,0.01,0.09,rain,66.26,66.26,55.33,0.68,1010.89,7.5,7.5,245,0.69,7
+,,,,,,,,,,,,,,,,,,,,,
+Falkland Islands,Stanley,-51.7,-57.85,Atlantic/Stanley,1563696064,Partly Cloudy,partly-cloudy-night,0,0,38.47,29.22,36.11,0.91,994.08,17.16,26.43,336,0.34,0,10,287.9
+,,,,,,,,,,,,,,,,,,,,,
+Faroe Islands,Torshavn,62,-6.766667,Atlantic/Faroe,1563696067,Mostly Cloudy,partly-cloudy-day,0,0,52.94,52.94,50.47,0.91,1004.23,2.59,8.53,231,0.68,1,6.232,361.2
+,,,,,,,,,,,,,,,,,,,,,
+Fiji,Suva,-18.13333333,178.416667,Pacific/Fiji,1563696069,Mostly Cloudy,partly-cloudy-night,0,0.001,0.05,rain,72.25,73.19,67.66,0.86,1011.8,0,15.64,21,0.68,0
+,,,,,,,,,,,,,,,,,,,,,
+Finland,Helsinki,60.16666667,24.933333,Europe/Helsinki,1563696070,Clear,clear-day,0,0,74.14,74.14,57.12,0.55,1017.22,4.25,4.58,149,0,4,6.233,336
+,,,,,,,,,,,,,,,,,,,,,
+France,Paris,48.86666667,2.333333,Europe/Paris,1563696071,Mostly Cloudy,partly-cloudy-day,0,0,69.77,69.77,55.44,0.6,1022.16,4.54,6.29,293,0.53,2,6.234,330.8
+,,,,,,,,,,,,,,,,,,,,,
+French Polynesia,Papeete,-17.53333333,-149.566667,Pacific/Tahiti,1563696073,Partly Cloudy,partly-cloudy-night,0,0,71.27,71.74,63.83,0.77,1015.05,4.14,21.58,105,0.18,0,6.234,255.5
+,,,,,,,,,,,,,,,,,,,,,
+Gabon,Libreville,0.383333333,9.45,Africa/Libreville,1563696074,Humid and Overcast,cloudy,0,0.009,0.09,rain,75.52,77.39,74.97,0.98,1015.76,4.17,8.96,102,0.91,3
+,,,,,,,,,,,,,,,,,,,,,
+The Gambia,Banjul,13.45,-16.566667,Africa/Banjul,1563696076,Humid and Mostly Cloudy,partly-cloudy-day,0,0,78.69,81.89,73.73,0.85,1013.83,4.69,5.24,90,0.54,1,6.235,278.2
+,,,,,,,,,,,,,,,,,,,,,
+Georgia,Tbilisi,41.68333333,44.833333,Asia/Tbilisi,1563696077,Clear,clear-day,0,0,89.38,89.38,55.04,0.31,1013.94,8.29,20.09,134,0.01,10,10,282
+,,,,,,,,,,,,,,,,,,,,,
+Germany,Berlin,52.51666667,13.4,Europe/Berlin,1563696079,Mostly Cloudy,partly-cloudy-day,0,0,69.43,69.67,61.74,0.77,1016.5,13.55,17.22,331,0.79,3,6.236,348.8
+,,,,,,,,,,,,,,,,,,,,,
+Ghana,Accra,5.55,-0.216667,Africa/Accra,1563696080,Humid and Overcast,cloudy,0,0,0,79.82,84.27,74.31,0.83,1014.68,8.51,13.34,235,1,2,4.984
+,,,,,,,,,,,,,,,,,,,,,
+Gibraltar,Gibraltar,36.13333333,-5.35,Europe/Gibraltar,1563696082,Clear,clear-day,0,0,74.85,75.83,68.56,0.81,1017.33,4.2,6.12,163,0,2,6.236,312.4
+,,,,,,,,,,,,,,,,,,,,,
+Greece,Athens,37.98333333,23.733333,Europe/Athens,1563696083,Clear,clear-day,0,0,88.11,88.11,47.25,0.24,1016.97,11.33,25.05,0,0,7,6.237,313.9
+,,,,,,,,,,,,,,,,,,,,,
+Greenland,Nuuk,64.18333333,-51.75,America/Godthab,1563696084,Foggy,fog,0,0.003,0.04,rain,42.83,38.21,42.83,1,1011.02,7.65,7.65,199,0.99,0
+,,,,,,,,,,,,,,,,,,,,,
+Grenada,Saint George's,12.05,-61.75,America/Grenada,1563696086,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.05,rain,78.83,82.42,75.04,0.88,1012.97,5.78,18.94,72,0.15,0
+,,,,,,,,,,,,,,,,,,,,,
+Guam,Hagatna,13.46666667,144.733333,Pacific/Guam,1563696087,Possible Drizzle and Humid,rain,0,0.01,0.53,rain,83.16,90.7,75.11,0.77,1008.7,3.01,4.19,107,0.73,0
+,,,,,,,,,,,,,,,,,,,,,
+Guatemala,Guatemala City,14.61666667,-90.516667,America/Guatemala,1563696089,Mostly Cloudy,partly-cloudy-night,0,0.003,0.12,rain,65.77,66.25,62.56,0.89,1014.61,10.17,12.41,358,0.71,0
+,,,,,,,,,,,,,,,,,,,,,
+Guernsey,Saint Peter Port,49.45,-2.533333,Europe/Guernsey,1563696090,Partly Cloudy,partly-cloudy-day,77,335,0,0,62.43,62.83,60.91,0.95,1021.77,7.22,11.25,208,0.37,2
+,,,,,,,,,,,,,,,,,,,,,
+Guinea,Conakry,9.5,-13.7,Africa/Conakry,1563696092,Humid and Overcast,cloudy,0,0,0,79.17,82.78,73.57,0.83,1014.14,3.98,3.98,305,0.93,1,10
+,,,,,,,,,,,,,,,,,,,,,
+Guinea-Bissau,Bissau,11.85,-15.583333,Africa/Bissau,1563696093,Humid and Partly Cloudy,partly-cloudy-day,0,0,78.67,82.12,75.34,0.9,1013.8,4.01,8.59,21,0.38,1,6.239,280.2
+,,,,,,,,,,,,,,,,,,,,,
+Guyana,Georgetown,6.8,-58.15,America/Guyana,1563696095,Possible Light Rain and Humid,rain,0,0.027,0.34,rain,74.86,76.47,73.09,0.94,1011.64,5.32,6.69,129,0.77,0
+,,,,,,,,,,,,,,,,,,,,,
+Haiti,Port-au-Prince,18.53333333,-72.333333,America/Port-au-Prince,1563696098,Partly Cloudy,partly-cloudy-night,0,0.005,0.05,rain,74.69,75.6,67.91,0.79,1014.98,3.39,5.15,101,0.38,0
+,,,,,,,,,,,,,,,,,,,,,
+Vatican City,Vatican City,41.9,12.45,Europe/Rome,1563696100,Clear,clear-day,0,0,80.63,81.6,61.38,0.52,1020.62,2.84,4.32,200,0,5,6.241,320.9
+,,,,,,,,,,,,,,,,,,,,,
+Honduras,Tegucigalpa,14.1,-87.216667,America/Tegucigalpa,1563696101,Partly Cloudy,partly-cloudy-night,0,0.002,0.07,rain,67.5,68,63.24,0.86,1013.57,8.93,20.28,0,0.47,0
+,,,,,,,,,,,,,,,,,,,,,
+Hungary,Budapest,47.5,19.083333,Europe/Budapest,1563696103,Mostly Cloudy,partly-cloudy-day,0,0,80.55,83.33,68.31,0.66,1017.92,5.83,7.89,139,0.83,3,6.242,325.9
+,,,,,,,,,,,,,,,,,,,,,
+Iceland,Reykjavik,64.15,-21.95,Atlantic/Reykjavik,1563696104,Mostly Cloudy,partly-cloudy-day,0,0.001,0.09,rain,56.73,56.73,48.62,0.74,1004.47,3.92,4.16,326,0.74,1
+,,,,,,,,,,,,,,,,,,,,,
+India,New Delhi,28.6,77.2,Asia/Kolkata,1563696106,Humid and Mostly Cloudy,partly-cloudy-day,0,0.016,0.06,rain,96.34,114.26,78.55,0.57,999.89,5.18,7.28,143,0.82,6
+,,,,,,,,,,,,,,,,,,,,,
+Indonesia,Jakarta,-6.166666667,106.816667,Asia/Jakarta,1563696107,Partly Cloudy,partly-cloudy-day,0,0,0,89.28,93.99,69.17,0.52,1007.15,16.39,16.39,49,0.19,4,5.005
+,,,,,,,,,,,,,,,,,,,,,
+Iran,Tehran,35.7,51.416667,Asia/Tehran,1563696108,Partly Cloudy,partly-cloudy-day,0,0,99.22,99.22,37.54,0.12,1011.72,11.88,12.64,134,0.24,10,6.243,283.1
+,,,,,,,,,,,,,,,,,,,,,
+Iraq,Baghdad,33.33333333,44.4,Asia/Baghdad,1563696110,Clear,clear-day,0,0,105.17,106.12,59.17,0.22,1001.01,18.68,20.47,295,0,10,6.243,295.1
+,,,,,,,,,,,,,,,,,,,,,
+Ireland,Dublin,53.31666667,-6.233333,Europe/Dublin,1563696111,Mostly Cloudy,partly-cloudy-day,37,297,0,0,65.85,65.85,54.21,0.66,1015.01,11.78,16.42,210,0.82,2
+,,,,,,,,,,,,,,,,,,,,,
+Isle of Man,Douglas,54.15,-4.483333,Europe/Isle_of_Man,1563696112,Partly Cloudy,partly-cloudy-day,76,295,0,0,60.55,60.55,54.74,0.81,1015.34,8.02,17.45,217,0.2,2
+,,,,,,,,,,,,,,,,,,,,,
+Israel,Jerusalem,31.76666667,35.233333,Asia/Jerusalem,1563696114,Partly Cloudy,partly-cloudy-day,0,0,79.1,79.47,63.42,0.59,1010.12,0.05,6.69,288,0.24,9,6.244,286.9
+,,,,,,,,,,,,,,,,,,,,,
+Italy,Rome,41.9,12.483333,Europe/Rome,1563696115,Clear,clear-day,0,0,81.05,81.89,61.14,0.51,1020.6,2.58,4.11,197,0,5,6.245,320.9
+,,,,,,,,,,,,,,,,,,,,,
+Jamaica,Kingston,18,-76.8,America/Jamaica,1563696117,Partly Cloudy,partly-cloudy-night,0,0.001,0.03,rain,80.85,83.16,66.67,0.62,1013.85,3.85,8.76,319,0.28,0
+,,,,,,,,,,,,,,,,,,,,,
+Japan,Tokyo,35.68333333,139.75,Asia/Tokyo,1563696118,Humid and Partly Cloudy,partly-cloudy-day,0,0.002,0.16,rain,80.02,85.2,75.38,0.86,1013.94,7.02,16.36,123,0.44,1
+,,,,,,,,,,,,,,,,,,,,,
+Jersey,Saint Helier,49.18333333,-2.1,Europe/Jersey,1563696119,Partly Cloudy,partly-cloudy-day,102,333,0,0,65.88,66.09,60.75,0.84,1022.04,6.64,9.04,213,0.36,2
+,,,,,,,,,,,,,,,,,,,,,
+Jordan,Amman,31.95,35.933333,Asia/Amman,1563696120,Clear,clear-day,0,0,81.07,81.27,58.01,0.45,1009.62,11.34,11.34,289,0.02,10,3.42,287.3
+,,,,,,,,,,,,,,,,,,,,,
+Kazakhstan,Astana,51.16666667,71.416667,Asia/Almaty,1563696122,Partly Cloudy,partly-cloudy-day,0,0,87.39,87.39,52.82,0.31,1007.11,4.01,4.55,100,0.16,8,6.246,292.9
+,,,,,,,,,,,,,,,,,,,,,
+Kenya,Nairobi,-1.283333333,36.816667,Africa/Nairobi,1563696123,Partly Cloudy,partly-cloudy-day,0,0.004,0.04,rain,68.4,68.4,55.3,0.63,1014.71,0.89,7.73,295,0.2,8
+,,,,,,,,,,,,,,,,,,,,,
+Kiribati,Tarawa,-0.883333333,169.533333,Pacific/Tarawa,1563696125,Humid and Partly Cloudy,partly-cloudy-night,0,0.015,0.12,rain,84.61,91.98,73.94,0.7,1008.44,6.31,9.34,113,0.47,0
+,,,,,,,,,,,,,,,,,,,,,
+North Korea,Pyongyang,39.01666667,125.75,Asia/Pyongyang,1563696126,Humid and Overcast,cloudy,0,0.003,0.21,rain,80.23,84.41,72.7,0.78,1001.72,5.87,13.72,321,1,2
+,,,,,,,,,,,,,,,,,,,,,
+South Korea,Seoul,37.55,126.983333,Asia/Seoul,1563696127,Humid and Mostly Cloudy,partly-cloudy-day,0,0.008,0.18,rain,78.14,79.59,72.84,0.84,1002.22,10.48,21.62,230,0.63,2
+,,,,,,,,,,,,,,,,,,,,,
+Kosovo,Pristina,42.66666667,21.166667,Europe/Belgrade,1563696128,Partly Cloudy,partly-cloudy-day,0,0,74.35,74.35,58.05,0.57,1020.23,0.04,2.61,151,0.19,6,6.248,315.7
+,,,,,,,,,,,,,,,,,,,,,
+Kuwait,Kuwait City,29.36666667,47.966667,Asia/Kuwait,1563696130,Clear,clear-day,0,0,108.07,108.07,52.08,0.16,999.14,15.06,15.94,350,0,11,6.248,296.1
+,,,,,,,,,,,,,,,,,,,,,
+Kyrgyzstan,Bishkek,42.86666667,74.6,Asia/Bishkek,1563696131,Partly Cloudy,partly-cloudy-day,0,0.001,0.01,rain,93.08,93.08,43.64,0.18,1007.65,12.64,16.05,295,0.28,9
+,,,,,,,,,,,,,,,,,,,,,
+Laos,Vientiane,17.96666667,102.6,Asia/Vientiane,1563696133,Humid and Partly Cloudy,partly-cloudy-day,0,0.01,0.07,rain,92.29,106.35,77.03,0.61,1004.25,2.02,4.8,329,0.44,6
+,,,,,,,,,,,,,,,,,,,,,
+Latvia,Riga,56.95,24.1,Europe/Riga,1563696134,Clear,clear-day,0,0,75.01,75.01,55.39,0.5,1017.21,5.85,8.96,132,0,4,6.249,333
+,,,,,,,,,,,,,,,,,,,,,
+Lebanon,Beirut,33.86666667,35.5,Asia/Beirut,1563696136,Humid and Partly Cloudy,partly-cloudy-day,0,0,84.41,91.63,73.87,0.71,1009.1,16.39,16.39,241,0.44,7,5.014,288.8
+,,,,,,,,,,,,,,,,,,,,,
+Lesotho,Maseru,-29.31666667,27.483333,Africa/Maseru,1563696137,Clear,clear-day,0,0,40.03,36.81,29.93,0.67,1031.93,4.62,8.83,12,0.04,3,6.25,285.9
+,,,,,,,,,,,,,,,,,,,,,
+Liberia,Monrovia,6.3,-10.8,Africa/Monrovia,1563696139,Humid and Foggy,fog,0,0.012,0.1,rain,75.16,76.89,73.99,0.96,1014.91,4.61,13.84,221,0.74,1
+,,,,,,,,,,,,,,,,,,,,,
+Libya,Tripoli,32.88333333,13.166667,Africa/Tripoli,1563696140,Clear,clear-day,0,0,80.41,82.06,64.24,0.58,1019.16,12.78,13.22,90,0,5,10,322.9
+,,,,,,,,,,,,,,,,,,,,,
+Liechtenstein,Vaduz,47.13333333,9.516667,Europe/Vaduz,1563696141,Mostly Cloudy,partly-cloudy-day,0,0.022,0.16,rain,66.72,67.15,62.52,0.86,1022.23,2.78,6.07,141,0.65,3
+,,,,,,,,,,,,,,,,,,,,,
+Lithuania,Vilnius,54.68333333,25.316667,Europe/Vilnius,1563696143,Clear,clear-day,0,0,78.27,78.27,57.49,0.49,1017.11,6.48,7.59,223,0,5,6.252,333.7
+,,,,,,,,,,,,,,,,,,,,,
+Luxembourg,Luxembourg,49.6,6.116667,Europe/Luxembourg,1563696144,Mostly Cloudy,partly-cloudy-day,0,0,70.88,70.88,54.79,0.57,1020.95,11.99,13.35,261,0.54,3,6.252,339.6
+,,,,,,,,,,,,,,,,,,,,,
+Macedonia,Skopje,42,21.433333,Europe/Skopje,1563696145,Clear,clear-day,0,0,78.81,79.01,61.65,0.56,1020.18,0.01,1.3,148,0,6,6.252,319.3
+,,,,,,,,,,,,,,,,,,,,,
+Madagascar,Antananarivo,-18.91666667,47.516667,Indian/Antananarivo,1563696147,Clear,clear-day,0,0,71.24,71.24,43.77,0.37,1015.97,12.31,20.18,304,0,7,6.253,257.2
+,,,,,,,,,,,,,,,,,,,,,
+Malawi,Lilongwe,-13.96666667,33.783333,Africa/Blantyre,1563696148,Clear,clear-day,0,0,72.68,72.68,45.69,0.38,1019.78,8.18,12.45,166,0.05,7,6.253,254.6
+,,,,,,,,,,,,,,,,,,,,,
+Malaysia,Kuala Lumpur,3.166666667,101.7,Asia/Kuala_Lumpur,1563696149,Possible Light Rain and Humid,rain,0,0.089,0.31,rain,87.37,99.06,76.81,0.71,1006.77,6.98,6.98,193,0.82,4
+,,,,,,,,,,,,,,,,,,,,,
+Maldives,Male,4.166666667,73.5,Indian/Maldives,1563696152,Humid and Mostly Cloudy,partly-cloudy-day,0,0.006,0.04,rain,86.3,100.11,78.95,0.79,1007.24,17.93,19.8,315,0.77,6
+,,,,,,,,,,,,,,,,,,,,,
+Mali,Bamako,12.65,-8,Africa/Bamako,1563696153,Partly Cloudy,partly-cloudy-day,0,0,78.89,81.8,71.34,0.78,1012.36,5.63,6.98,199,0.22,1,6.254,274.4
+,,,,,,,,,,,,,,,,,,,,,
+Malta,Valletta,35.88333333,14.5,Europe/Malta,1563696155,Partly Cloudy,partly-cloudy-day,0,0,81.46,84.97,69.67,0.68,1019.94,5.44,5.74,79,0.19,5,6.255,317.1
+,,,,,,,,,,,,,,,,,,,,,
+Marshall Islands,Majuro,7.1,171.383333,Pacific/Majuro,1563696157,Humid and Mostly Cloudy,partly-cloudy-night,0,0,84.65,93.72,75.8,0.75,1009.24,5.16,5.16,55,0.59,0,10,256.7
+,,,,,,,,,,,,,,,,,,,,,
+Mauritania,Nouakchott,18.06666667,-15.966667,Africa/Nouakchott,1563696159,Clear,clear-day,0,0,79,79.84,67.93,0.69,1013.56,9.61,12.2,235,0,1,10,281.4
+,,,,,,,,,,,,,,,,,,,,,
+Mauritius,Port Louis,-20.15,57.483333,Indian/Mauritius,1563696161,Clear,clear-day,0,0.001,0.03,rain,78.7,79.16,64.37,0.62,1016.21,9.01,10.05,39,0.06,7
+,,,,,,,,,,,,,,,,,,,,,
+Mexico,Mexico City,19.43333333,-99.133333,America/Mexico_City,1563696162,Mostly Cloudy,partly-cloudy-night,0,0.019,0.21,rain,60.07,60.07,49.76,0.69,1017.78,4.78,4.78,274,0.71,0
+,,,,,,,,,,,,,,,,,,,,,
+Federated States of Micronesia,Palikir,6.916666667,158.15,Pacific/Pohnpei,1563696164,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.04,rain,77.63,79.65,76.69,0.97,1009.15,3.04,4.98,100,0.31,0
+,,,,,,,,,,,,,,,,,,,,,
+Moldova,Chisinau,47,28.85,Europe/Chisinau,1563696166,Clear,clear-day,0,0,80.77,82.54,64.8,0.58,1018.82,0.39,5.59,279,0.04,6,6.258,325.4
+,,,,,,,,,,,,,,,,,,,,,
+Monaco,Monaco,43.73333333,7.416667,Europe/Monaco,1563696167,Humid and Partly Cloudy,partly-cloudy-day,0,0,76.13,77.7,73.15,0.9,1020.3,4.86,5.04,85,0.47,3,6.258,318.9
+,,,,,,,,,,,,,,,,,,,,,
+Mongolia,Ulaanbaatar,47.91666667,106.916667,Asia/Ulaanbaatar,1563696169,Mostly Cloudy,partly-cloudy-day,0,0.003,0.05,rain,85.93,85.93,47.85,0.27,1000.55,7.83,7.83,168,0.62,4
+,,,,,,,,,,,,,,,,,,,,,
+Montenegro,Podgorica,42.43333333,19.266667,Europe/Podgorica,1563696170,Clear,clear-day,0,0,84.78,84.78,55.74,0.37,1020.19,4.77,4.77,71,0.01,6,6.263,314.1
+,,,,,,,,,,,,,,,,,,,,,
+Montserrat,Plymouth,16.7,-62.216667,America/Montserrat,1563696172,Humid and Partly Cloudy,partly-cloudy-night,0,0.002,0.1,rain,80.31,85.26,74.46,0.82,1014.51,15.42,18.81,90,0.4,0
+,,,,,,,,,,,,,,,,,,,,,
+Morocco,Rabat,34.01666667,-6.816667,Africa/Casablanca,1563696173,Mostly Cloudy,partly-cloudy-day,0,0,73.13,73.84,66.15,0.79,1017.33,0.21,7.86,329,0.68,2,3.167,310.8
+,,,,,,,,,,,,,,,,,,,,,
+Mozambique,Maputo,-25.95,32.583333,Africa/Maputo,1563696174,Clear,clear-day,0,0,66.84,66.84,39.12,0.36,1031.63,22.43,22.72,178,0,3,6.26,285.2
+,,,,,,,,,,,,,,,,,,,,,
+Namibia,Windhoek,-22.56666667,17.083333,Africa/Windhoek,1563696176,Clear,clear-day,0,0,51.9,51.9,4.3,0.14,1023.52,6.17,10.24,96,0,3,6.26,256.9
+,,,,,,,,,,,,,,,,,,,,,
+Nepal,Kathmandu,27.71666667,85.316667,Asia/Kathmandu,1563696178,Mostly Cloudy,partly-cloudy-day,0,0.057,0.18,rain,84.95,88.04,67.62,0.56,1004.23,6.03,6.03,263,0.71,7
+,,,,,,,,,,,,,,,,,,,,,
+Netherlands,Amsterdam,52.35,4.916667,Europe/Amsterdam,1563696179,Partly Cloudy,partly-cloudy-day,0,0,68.85,68.85,54.64,0.61,1019.03,14.79,14.79,303,0.3,3,6.261,345.3
+,,,,,,,,,,,,,,,,,,,,,
+New Caledonia,Noumea,-22.26666667,166.45,Pacific/Noumea,1563696181,Mostly Cloudy,partly-cloudy-night,0,0,0,65.79,65.79,54.71,0.67,1017.16,9.69,13.99,134,0.86,0,6.261
+,,,,,,,,,,,,,,,,,,,,,
+New Zealand,Wellington,-41.3,174.783333,Pacific/Auckland,1563696182,Possible Light Rain,rain,0,0.021,0.49,rain,50.3,50.3,48.3,0.93,1009.55,4.9,6.89,55,1,0
+,,,,,,,,,,,,,,,,,,,,,
+Nicaragua,Managua,12.13333333,-86.25,America/Managua,1563696183,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.04,rain,78.21,79.67,72.93,0.84,1009.58,7.83,24.19,89,0.36,0
+,,,,,,,,,,,,,,,,,,,,,
+Niger,Niamey,13.51666667,2.116667,Africa/Niamey,1563696185,Humid and Partly Cloudy,partly-cloudy-day,0,0,81.48,86.86,73.53,0.77,1012.72,6.59,11.21,208,0.19,3,2.244,274.5
+,,,,,,,,,,,,,,,,,,,,,
+Nigeria,Abuja,9.083333333,7.533333,Africa/Lagos,1563696187,Partly Cloudy,partly-cloudy-day,0,0,71.6,72.53,67.36,0.87,1014.97,5.79,5.79,207,0.14,4,6.263,273.1
+,,,,,,,,,,,,,,,,,,,,,
+Niue,Alofi,-19.01666667,-169.916667,Pacific/Niue,1563696189,Possible Light Rain and Humid,rain,0,0.031,0.49,rain,77.98,80.54,77.07,0.97,1009,8.21,27.26,312,0.96,0
+,,,,,,,,,,,,,,,,,,,,,
+Norfolk Island,Kingston,-29.05,167.966667,Pacific/Norfolk,1563696190,Mostly Cloudy,partly-cloudy-night,0,0.001,0.12,rain,60.8,60.8,53.4,0.77,1017.53,14.22,21.53,180,0.75,0
+,,,,,,,,,,,,,,,,,,,,,
+Northern Mariana Islands,Saipan,15.2,145.75,Pacific/Saipan,1563696191,Humid,clear-day,0,0,83.9,92.05,75.28,0.75,1011.27,9.4,9.4,127,0.06,0,8.961,269.8
+,,,,,,,,,,,,,,,,,,,,,
+Norway,Oslo,59.91666667,10.75,Europe/Oslo,1563696193,Rain,rain,0,0.101,0.76,rain,61.49,61.58,58.59,0.9,1008.68,3.46,8.88,111,0.75,2
+,,,,,,,,,,,,,,,,,,,,,
+Oman,Muscat,23.61666667,58.583333,Asia/Muscat,1563696195,Humid,clear-day,0,0,89.89,104.51,78.08,0.68,1000.7,11.72,12.36,76,0.01,12,5.031,277.9
+,,,,,,,,,,,,,,,,,,,,,
+Chad,N'Djamena,12.1,15.033333,Africa/Ndjamena,1563695586,Possible Light Rain,rain,0,0.046,0.31,rain,74.28,75.46,69.89,0.86,1012.83,2.62,11.59,341,0.19,5
+,,,,,,,,,,,,,,,,,,,,,
+Chile,Santiago,-33.45,-70.666667,America/Santiago,1563695588,Overcast,cloudy,0,0.003,0.16,rain,47.07,43.12,38.78,0.73,1012.94,8.17,8.17,136,1,0
+,,,,,,,,,,,,,,,,,,,,,
+China,Beijing,39.91666667,116.383333,Asia/Shanghai,1563695591,Humid and Mostly Cloudy,partly-cloudy-day,0,0,102.25,113.59,72.61,0.39,1000.45,12.52,12.52,181,0.5,4,6.216,303.2
+,,,,,,,,,,,,,,,,,,,,,
+Christmas Island,The Settlement,-10.41666667,105.716667,Indian/Christmas,1563695593,Overcast,cloudy,0,0.001,0.04,rain,79.18,82.34,71.61,0.78,1010.3,16.88,22.18,112,1,3
+,,,,,,,,,,,,,,,,,,,,,
+Cocos Islands,West Island,-12.16666667,96.833333,Indian/Cocos,1563695595,Humid and Mostly Cloudy,partly-cloudy-day,0,0.002,0.1,rain,81.56,86.94,73.43,0.76,1011.36,14.69,28.53,114,0.56,4
+,,,,,,,,,,,,,,,,,,,,,
+Colombia,Bogota,4.6,-74.083333,America/Bogota,1563695597,Foggy,fog,0,0.017,0.2,rain,50.57,50.57,48.06,0.91,1016.89,7.93,8.62,65,0.76,0
+,,,,,,,,,,,,,,,,,,,,,
+Comoros,Moroni,-11.7,43.233333,Indian/Comoro,1563695599,Partly Cloudy,partly-cloudy-day,0,0,80.36,82.46,66.05,0.62,1016.87,8.43,10.73,235,0.18,7,6.216,253.2
+,,,,,,,,,,,,,,,,,,,,,
+Democratic Republic of the Congo,Kinshasa,-4.316666667,15.3,Africa/Kinshasa,1563695601,Mostly Cloudy,partly-cloudy-day,0,0,71.59,72.33,66,0.83,1016.09,3.14,8.06,197,0.55,3,2.488,269.5
+,,,,,,,,,,,,,,,,,,,,,
+Republic of Congo,Brazzaville,-4.25,15.283333,Africa/Brazzaville,1563695604,Mostly Cloudy,partly-cloudy-day,0,0,71.5,72.26,66.19,0.83,1016.08,3.47,8.13,196,0.57,3,2.488,269.7
+,,,,,,,,,,,,,,,,,,,,,
+Cook Islands,Avarua,-21.2,-159.766667,Pacific/Rarotonga,1563695606,Partly Cloudy,partly-cloudy-night,0,0,69.44,69.65,61.44,0.76,1013.21,7.85,9.79,80,0.43,0,6.216,259.2
+,,,,,,,,,,,,,,,,,,,,,
+Costa Rica,San Jose,9.933333333,-84.083333,America/Costa_Rica,1563695608,Foggy,fog,0,0.008,0.09,rain,71.37,72,65.1,0.81,1011.47,14.54,14.54,113,0.19,0
+,,,,,,,,,,,,,,,,,,,,,
+Cote d'Ivoire,Yamoussoukro,6.816666667,-5.266667,Africa/Abidjan,1563695610,Overcast,cloudy,0,0.001,0.08,rain,74.03,75.47,71.67,0.92,1014.49,6.11,10.14,227,0.99,1
+,,,,,,,,,,,,,,,,,,,,,
+Croatia,Zagreb,45.8,16,Europe/Zagreb,1563695613,Mostly Cloudy,partly-cloudy-day,0,0,79.94,80.85,60.21,0.51,1018.36,7.86,10.63,252,0.73,3,6.216,320
+,,,,,,,,,,,,,,,,,,,,,
+Cuba,Havana,23.11666667,-82.35,America/Havana,1563695615,Partly Cloudy,partly-cloudy-night,90,2,0,0,73.75,75.1,70.94,0.91,1014.83,5.7,10.18,98,0.43,0
+,,,,,,,,,,,,,,,,,,,,,
+Curaçao,Willemstad,12.1,-68.916667,America/Curacao,1563695617,Partly Cloudy,partly-cloudy-night,0,0,80.94,85.15,71.76,0.74,1011.75,14.63,26.58,120,0.49,0,6.21,278.8
+,,,,,,,,,,,,,,,,,,,,,
+Cyprus,Nicosia,35.16666667,33.366667,Asia/Nicosia,1563695620,Clear,clear-day,0,0,92.35,92.35,54.67,0.28,1008.24,8.25,9.34,343,0,9,6.216,292.4
+,,,,,,,,,,,,,,,,,,,,,
+Czech Republic,Prague,50.08333333,14.466667,Europe/Prague,1563695622,Mostly Cloudy,partly-cloudy-day,0,0.006,0.07,rain,67.79,68.1,61.89,0.81,1018.63,8.91,9.98,186,0.81,3
+,,,,,,,,,,,,,,,,,,,,,
+Denmark,Copenhagen,55.66666667,12.583333,Europe/Copenhagen,1563695624,Mostly Cloudy,partly-cloudy-day,0,0.003,0.09,rain,67.14,67.4,61.38,0.82,1012.52,9.33,16.53,230,0.58,3
+,,,,,,,,,,,,,,,,,,,,,
+Djibouti,Djibouti,11.58333333,43.15,Africa/Djibouti,1563695626,Humid and Mostly Cloudy,partly-cloudy-day,0,0,97.59,107.29,72.38,0.45,1002.6,12.21,12.52,108,0.73,6,6.216,275.1
+,,,,,,,,,,,,,,,,,,,,,
+Dominica,Roseau,15.3,-61.4,America/Dominica,1563695628,Humid and Partly Cloudy,partly-cloudy-night,0,0.005,0.11,rain,79.61,83.67,73.74,0.82,1013.95,13.41,15.8,82,0.39,0
+,,,,,,,,,,,,,,,,,,,,,
+Dominican Republic,Santo Domingo,18.46666667,-69.9,America/Santo_Domingo,1563695631,Humid and Partly Cloudy,partly-cloudy-night,0,0,74.13,75.72,72.7,0.95,1014.77,5.95,8.88,1,0.29,0,10,284.2
+,,,,,,,,,,,,,,,,,,,,,
+Ecuador,Quito,-0.216666667,-78.5,America/Guayaquil,1563695633,Mostly Cloudy,partly-cloudy-night,0,0,51.44,51.44,48.25,0.89,1011.23,2.7,6.13,4,0.75,0,7.348,257.2
+,,,,,,,,,,,,,,,,,,,,,
+Egypt,Cairo,30.05,31.25,Africa/Cairo,1563695635,Partly Cloudy,partly-cloudy-day,0,0,87,88.65,64.67,0.48,1011.31,8.51,11,328,0.4,7,6.216,293.3
+,,,,,,,,,,,,,,,,,,,,,
+El Salvador,San Salvador,13.7,-89.2,America/El_Salvador,1563695637,Mostly Cloudy,partly-cloudy-night,0,0,68.55,69.8,68.55,1,1011.35,2.18,9.98,52,0.85,0,6.216,280.6
+,,,,,,,,,,,,,,,,,,,,,
+Equatorial Guinea,Malabo,3.75,8.783333,Africa/Malabo,1563695639,Partly Cloudy,partly-cloudy-day,0,0.004,0.11,rain,76.88,78.25,71.91,0.85,1015.08,5.27,6.02,333,0.43,3
+,,,,,,,,,,,,,,,,,,,,,
+Eritrea,Asmara,15.33333333,38.933333,Africa/Asmara,1563695640,Mostly Cloudy,partly-cloudy-day,0,0.021,0.07,rain,71.9,71.9,50.96,0.48,1006.89,5.78,12.87,334,0.67,7
+,,,,,,,,,,,,,,,,,,,,,
+Estonia,Tallinn,59.43333333,24.716667,Europe/Tallinn,1563695643,Clear,clear-day,0,0,76.02,76.02,54.41,0.47,1017.28,5.5,5.5,274,0,4,6.216,337.4
+,,,,,,,,,,,,,,,,,,,,,
+Ethiopia,Addis Ababa,9.033333333,38.7,Africa/Addis_Ababa,1563695645,Mostly Cloudy,partly-cloudy-day,0,0.009,0.09,rain,66.03,66.03,55.33,0.68,1011.03,7.5,7.5,246,0.69,7
+,,,,,,,,,,,,,,,,,,,,,
+Falkland Islands,Stanley,-51.7,-57.85,Atlantic/Stanley,1563695647,Partly Cloudy,partly-cloudy-night,0,0,38.46,29.19,36.08,0.91,994.13,17.25,26.58,336,0.33,0,10,288
+,,,,,,,,,,,,,,,,,,,,,
+Faroe Islands,Torshavn,62,-6.766667,Atlantic/Faroe,1563695650,Mostly Cloudy,partly-cloudy-day,0,0,52.81,52.81,50.39,0.91,1004.21,2.49,8.4,232,0.69,1,6.216,360.8
+,,,,,,,,,,,,,,,,,,,,,
+Fiji,Suva,-18.13333333,178.416667,Pacific/Fiji,1563695652,Mostly Cloudy,partly-cloudy-night,0,0.001,0.05,rain,72.21,73.16,67.67,0.86,1011.71,0,15.62,21,0.68,0
+,,,,,,,,,,,,,,,,,,,,,
+Finland,Helsinki,60.16666667,24.933333,Europe/Helsinki,1563695654,Clear,clear-day,0,0,74.01,74.01,57.12,0.56,1017.22,4.12,4.47,148,0,4,6.216,335.8
+,,,,,,,,,,,,,,,,,,,,,
+France,Paris,48.86666667,2.333333,Europe/Paris,1563695656,Mostly Cloudy,partly-cloudy-day,0,0,69.36,69.36,55.57,0.62,1022.12,4.62,6.43,294,0.53,2,6.216,330.9
+,,,,,,,,,,,,,,,,,,,,,
+French Polynesia,Papeete,-17.53333333,-149.566667,Pacific/Tahiti,1563695658,Partly Cloudy,partly-cloudy-night,0,0,71.26,71.73,63.87,0.78,1015.02,4.07,21.52,106,0.18,0,6.216,255.5
+,,,,,,,,,,,,,,,,,,,,,
+Gabon,Libreville,0.383333333,9.45,Africa/Libreville,1563695660,Humid and Overcast,cloudy,0,0.009,0.09,rain,75.41,77.28,74.99,0.99,1015.71,4.16,9.03,102,0.9,2
+,,,,,,,,,,,,,,,,,,,,,
+The Gambia,Banjul,13.45,-16.566667,Africa/Banjul,1563695662,Humid and Mostly Cloudy,partly-cloudy-day,0,0,78.57,81.64,73.71,0.85,1013.76,4.67,5.16,90,0.56,0,6.216,278.3
+,,,,,,,,,,,,,,,,,,,,,
+Georgia,Tbilisi,41.68333333,44.833333,Asia/Tbilisi,1563695665,Clear,clear-day,0,0,89.1,89.1,54.92,0.31,1014.01,8.27,20.09,134,0.01,10,10,281.9
+,,,,,,,,,,,,,,,,,,,,,
+Germany,Berlin,52.51666667,13.4,Europe/Berlin,1563695667,Mostly Cloudy,partly-cloudy-day,0,0,69.11,69.36,61.8,0.78,1016.44,13.46,17.29,329,0.79,3,6.216,348.4
+,,,,,,,,,,,,,,,,,,,,,
+Ghana,Accra,5.55,-0.216667,Africa/Accra,1563695669,Humid and Overcast,cloudy,0,0,0,79.6,83.81,74.24,0.84,1014.64,8.47,13.41,235,1,2,4.975
+,,,,,,,,,,,,,,,,,,,,,
+Gibraltar,Gibraltar,36.13333333,-5.35,Europe/Gibraltar,1563695671,Clear,clear-day,0,0,74.66,75.65,68.51,0.81,1017.26,4.11,5.98,175,0,2,6.216,312.5
+,,,,,,,,,,,,,,,,,,,,,
+Greece,Athens,37.98333333,23.733333,Europe/Athens,1563695673,Clear,clear-day,0,0,87.84,87.84,47.27,0.25,1016.96,11.26,25.04,359,0,6,6.216,314
+,,,,,,,,,,,,,,,,,,,,,
+Greenland,Nuuk,64.18333333,-51.75,America/Godthab,1563695675,Foggy,fog,0,0.003,0.04,rain,42.84,38.18,42.84,1,1010.98,7.73,7.73,199,0.99,0
+,,,,,,,,,,,,,,,,,,,,,
+Grenada,Saint George's,12.05,-61.75,America/Grenada,1563695677,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.05,rain,78.85,82.48,75.06,0.88,1012.95,5.77,18.84,72,0.16,0
+,,,,,,,,,,,,,,,,,,,,,
+Guam,Hagatna,13.46666667,144.733333,Pacific/Guam,1563695680,Possible Drizzle and Humid,rain,0,0.01,0.54,rain,83.25,90.84,75.09,0.76,1008.66,3.04,4.12,106,0.73,0
+,,,,,,,,,,,,,,,,,,,,,
+Guatemala,Guatemala City,14.61666667,-90.516667,America/Guatemala,1563695682,Mostly Cloudy,partly-cloudy-night,0,0.003,0.12,rain,65.79,66.27,62.6,0.89,1014.67,10.23,12.53,358,0.71,0
+,,,,,,,,,,,,,,,,,,,,,
+Guernsey,Saint Peter Port,49.45,-2.533333,Europe/Guernsey,1563695684,Partly Cloudy,partly-cloudy-day,77,335,0,0,62.37,62.77,60.9,0.95,1021.71,7.19,11.17,209,0.35,2
+,,,,,,,,,,,,,,,,,,,,,
+Guinea,Conakry,9.5,-13.7,Africa/Conakry,1563695686,Humid and Overcast,cloudy,0,0,0,79.08,82.62,73.56,0.83,1014.08,4.09,4.09,300,0.94,1,10
+,,,,,,,,,,,,,,,,,,,,,
+Guinea-Bissau,Bissau,11.85,-15.583333,Africa/Bissau,1563695688,Humid and Partly Cloudy,partly-cloudy-day,0,0,78.53,81.78,75.33,0.9,1013.74,4.01,8.51,22,0.38,0,6.216,280.1
+,,,,,,,,,,,,,,,,,,,,,
+Guyana,Georgetown,6.8,-58.15,America/Guyana,1563695690,Possible Light Rain and Humid,rain,0,0.027,0.34,rain,74.92,76.54,73.12,0.94,1011.64,5.37,6.75,128,0.78,0
+,,,,,,,,,,,,,,,,,,,,,
+Haiti,Port-au-Prince,18.53333333,-72.333333,America/Port-au-Prince,1563695692,Partly Cloudy,partly-cloudy-night,0,0.005,0.06,rain,74.76,75.67,67.95,0.79,1014.96,3.34,5.11,102,0.36,0
+,,,,,,,,,,,,,,,,,,,,,
+Vatican City,Vatican City,41.9,12.45,Europe/Rome,1563695695,Clear,clear-day,0,0,80.06,81.16,61.42,0.53,1020.62,2.76,4.31,182,0,4,6.216,321.1
+,,,,,,,,,,,,,,,,,,,,,
+Honduras,Tegucigalpa,14.1,-87.216667,America/Tegucigalpa,1563695697,Partly Cloudy,partly-cloudy-night,0,0.002,0.06,rain,67.56,68.05,63.19,0.86,1013.63,8.88,20.25,0,0.46,0
+,,,,,,,,,,,,,,,,,,,,,
+Hungary,Budapest,47.5,19.083333,Europe/Budapest,1563695699,Mostly Cloudy,partly-cloudy-day,0,0,80.1,82.78,68.28,0.67,1017.91,5.75,7.83,137,0.82,3,6.216,325.8
+,,,,,,,,,,,,,,,,,,,,,
+Iceland,Reykjavik,64.15,-21.95,Atlantic/Reykjavik,1563695701,Mostly Cloudy,partly-cloudy-day,0,0.001,0.09,rain,56.54,56.54,48.61,0.75,1004.48,3.92,4.03,323,0.74,1
+,,,,,,,,,,,,,,,,,,,,,
+India,New Delhi,28.6,77.2,Asia/Kolkata,1563695703,Humid and Mostly Cloudy,partly-cloudy-day,0,0.014,0.06,rain,96.31,114.3,78.6,0.57,999.95,5.21,7.31,144,0.8,6
+,,,,,,,,,,,,,,,,,,,,,
+Indonesia,Jakarta,-6.166666667,106.816667,Asia/Jakarta,1563695705,Partly Cloudy,partly-cloudy-day,0,0,89.39,94.09,69.13,0.51,1007.19,16.36,16.36,49,0.19,4,4.973,255.2
+,,,,,,,,,,,,,,,,,,,,,
+Iran,Tehran,35.7,51.416667,Asia/Tehran,1563695707,Partly Cloudy,partly-cloudy-day,0,0,99.01,99.01,37.48,0.12,1011.79,11.88,12.69,134,0.23,10,6.216,283.1
+,,,,,,,,,,,,,,,,,,,,,
+Iraq,Baghdad,33.33333333,44.4,Asia/Baghdad,1563695710,Clear,clear-day,0,0,104.82,105.79,59.29,0.23,1001.03,18.71,20.77,295,0,10,6.216,295
+,,,,,,,,,,,,,,,,,,,,,
+Ireland,Dublin,53.31666667,-6.233333,Europe/Dublin,1563695712,Mostly Cloudy,partly-cloudy-day,37,297,0,0,65.6,65.6,54.14,0.66,1015.01,11.61,16.24,210,0.82,1
+,,,,,,,,,,,,,,,,,,,,,
+Isle of Man,Douglas,54.15,-4.483333,Europe/Isle_of_Man,1563695714,Partly Cloudy,partly-cloudy-day,76,295,0,0,60.41,60.41,54.77,0.82,1015.29,7.86,17.4,218,0.2,2
+,,,,,,,,,,,,,,,,,,,,,
+Israel,Jerusalem,31.76666667,35.233333,Asia/Jerusalem,1563695716,Partly Cloudy,partly-cloudy-day,0,0,78.81,79.18,63.44,0.59,1010.15,0.01,6.58,288,0.26,8,6.216,286.9
+,,,,,,,,,,,,,,,,,,,,,
+Italy,Rome,41.9,12.483333,Europe/Rome,1563695719,Clear,clear-day,0,0,80.49,81.45,61.19,0.52,1020.6,2.51,4.12,179,0,4,6.216,321.1
+,,,,,,,,,,,,,,,,,,,,,
+Jamaica,Kingston,18,-76.8,America/Jamaica,1563695721,Partly Cloudy,partly-cloudy-night,0,0.001,0.03,rain,80.94,83.25,66.65,0.62,1013.85,3.85,8.75,319,0.27,0
+,,,,,,,,,,,,,,,,,,,,,
+Japan,Tokyo,35.68333333,139.75,Asia/Tokyo,1563695724,Humid and Partly Cloudy,partly-cloudy-day,0,0.002,0.15,rain,80.08,85.25,75.33,0.85,1013.94,7.1,16.33,122,0.44,1
+,,,,,,,,,,,,,,,,,,,,,
+Jersey,Saint Helier,49.18333333,-2.1,Europe/Jersey,1563695726,Partly Cloudy,partly-cloudy-day,102,333,0,0,65.81,66.03,60.74,0.84,1021.99,6.56,8.97,215,0.34,2
+,,,,,,,,,,,,,,,,,,,,,
+Jordan,Amman,31.95,35.933333,Asia/Amman,1563695728,Clear,clear-day,0,0,80.71,81.03,58.09,0.46,1009.66,11.27,11.27,288,0.04,9,3.425,287.4
+,,,,,,,,,,,,,,,,,,,,,
+Kazakhstan,Astana,51.16666667,71.416667,Asia/Almaty,1563695730,Partly Cloudy,partly-cloudy-day,0,0,87.23,87.23,52.91,0.31,1007.17,4.07,4.58,101,0.15,8,6.216,292.9
+,,,,,,,,,,,,,,,,,,,,,
+Kenya,Nairobi,-1.283333333,36.816667,Africa/Nairobi,1563695732,Partly Cloudy,partly-cloudy-day,0,0.004,0.04,rain,68.08,68.08,55.31,0.64,1014.82,0.77,7.59,297,0.19,8
+,,,,,,,,,,,,,,,,,,,,,
+Kiribati,Tarawa,-0.883333333,169.533333,Pacific/Tarawa,1563695734,Humid and Partly Cloudy,partly-cloudy-night,0,0.016,0.12,rain,84.6,91.97,73.93,0.7,1008.38,6.27,9.3,113,0.48,0
+,,,,,,,,,,,,,,,,,,,,,
+North Korea,Pyongyang,39.01666667,125.75,Asia/Pyongyang,1563695736,Humid and Overcast,cloudy,0,0.004,0.21,rain,80.33,84.57,72.69,0.78,1001.69,5.84,13.42,319,1,2
+,,,,,,,,,,,,,,,,,,,,,
+South Korea,Seoul,37.55,126.983333,Asia/Seoul,1563695738,Humid and Mostly Cloudy,partly-cloudy-day,0,0.008,0.18,rain,78.18,79.64,72.88,0.84,1002.19,10.42,21.41,229,0.64,2
+,,,,,,,,,,,,,,,,,,,,,
+Kosovo,Pristina,42.66666667,21.166667,Europe/Belgrade,1563695740,Partly Cloudy,partly-cloudy-day,0,0,73.86,73.86,58.03,0.58,1020.26,0.02,2.59,150,0.19,5,6.216,315.7
+,,,,,,,,,,,,,,,,,,,,,
+Kuwait,Kuwait City,29.36666667,47.966667,Asia/Kuwait,1563695743,Clear,clear-day,0,0,107.82,107.82,51.97,0.16,999.18,15.16,16.2,350,0,11,6.216,296.1
+,,,,,,,,,,,,,,,,,,,,,
+Kyrgyzstan,Bishkek,42.86666667,74.6,Asia/Bishkek,1563695745,Partly Cloudy,partly-cloudy-day,0,0.001,0.01,rain,93,93,43.78,0.18,1007.67,12.55,15.98,295,0.26,9
+,,,,,,,,,,,,,,,,,,,,,
+Laos,Vientiane,17.96666667,102.6,Asia/Vientiane,1563695748,Humid and Partly Cloudy,partly-cloudy-day,0,0.01,0.07,rain,92.23,106.26,77.03,0.61,1004.37,2.03,4.8,330,0.44,6
+,,,,,,,,,,,,,,,,,,,,,
+Latvia,Riga,56.95,24.1,Europe/Riga,1563695750,Clear,clear-day,0,0,74.73,74.73,55.32,0.51,1017.22,5.84,8.93,132,0,4,6.216,332.9
+,,,,,,,,,,,,,,,,,,,,,
+Lebanon,Beirut,33.86666667,35.5,Asia/Beirut,1563695752,Humid and Partly Cloudy,partly-cloudy-day,0,0,84.33,91.41,73.74,0.71,1009.1,16.35,16.35,241,0.44,7,4.974,288.8
+,,,,,,,,,,,,,,,,,,,,,
+Lesotho,Maseru,-29.31666667,27.483333,Africa/Maseru,1563695754,Clear,clear-day,0,0,39.15,35.89,30.08,0.7,1032.16,4.5,8.57,12,0.04,2,6.216,286
+,,,,,,,,,,,,,,,,,,,,,
+Liberia,Monrovia,6.3,-10.8,Africa/Monrovia,1563695757,Humid and Foggy,fog,0,0.011,0.1,rain,75.11,76.85,73.98,0.96,1014.85,4.59,13.93,221,0.74,1
+,,,,,,,,,,,,,,,,,,,,,
+Libya,Tripoli,32.88333333,13.166667,Africa/Tripoli,1563695759,Clear,clear-day,0,0,80.21,81.88,64.32,0.58,1019.14,12.67,13.11,91,0,5,10,322.8
+,,,,,,,,,,,,,,,,,,,,,
+Liechtenstein,Vaduz,47.13333333,9.516667,Europe/Vaduz,1563695761,Mostly Cloudy,partly-cloudy-day,0,0.022,0.17,rain,66.37,66.81,62.46,0.87,1022.21,2.76,6.03,141,0.65,3
+,,,,,,,,,,,,,,,,,,,,,
+Lithuania,Vilnius,54.68333333,25.316667,Europe/Vilnius,1563695763,Clear,clear-day,0,0,77.94,77.94,57.45,0.49,1017.13,6.41,7.6,223,0,5,6.216,333.6
+,,,,,,,,,,,,,,,,,,,,,
+Luxembourg,Luxembourg,49.6,6.116667,Europe/Luxembourg,1563695765,Mostly Cloudy,partly-cloudy-day,0,0,70.57,70.57,54.83,0.57,1020.9,11.87,13.24,262,0.54,3,6.216,340
+,,,,,,,,,,,,,,,,,,,,,
+Macedonia,Skopje,42,21.433333,Europe/Skopje,1563695767,Clear,clear-day,0,0,78.34,78.53,61.56,0.56,1020.21,0,1.29,149,0,6,6.216,319.3
+,,,,,,,,,,,,,,,,,,,,,
+Madagascar,Antananarivo,-18.91666667,47.516667,Indian/Antananarivo,1563695770,Clear,clear-day,0,0,70.79,70.79,43.89,0.38,1016.09,12.03,20.16,304,0,7,6.216,257.2
+,,,,,,,,,,,,,,,,,,,,,
+Malawi,Lilongwe,-13.96666667,33.783333,Africa/Blantyre,1563695772,Clear,clear-day,0,0,72.03,72.03,45.78,0.39,1019.83,7.83,12.27,166,0.05,6,6.216,254.6
+,,,,,,,,,,,,,,,,,,,,,
+Malaysia,Kuala Lumpur,3.166666667,101.7,Asia/Kuala_Lumpur,1563695775,Possible Light Rain and Humid,rain,0,0.085,0.31,rain,87.6,99.3,76.74,0.7,1006.83,7.07,7.07,194,0.81,4
+,,,,,,,,,,,,,,,,,,,,,
+Maldives,Male,4.166666667,73.5,Indian/Maldives,1563695778,Humid and Mostly Cloudy,partly-cloudy-day,0,0.006,0.04,rain,86.3,100.11,78.95,0.79,1007.32,17.85,19.74,314,0.77,7
+,,,,,,,,,,,,,,,,,,,,,
+Mali,Bamako,12.65,-8,Africa/Bamako,1563695779,Partly Cloudy,partly-cloudy-day,0,0,78.58,79.83,71.34,0.79,1012.32,5.57,6.85,199,0.22,1,6.216,274.4
+,,,,,,,,,,,,,,,,,,,,,
+Malta,Valletta,35.88333333,14.5,Europe/Malta,1563695782,Partly Cloudy,partly-cloudy-day,0,0,81.35,84.84,69.7,0.68,1019.92,5.39,5.67,80,0.19,5,6.216,317.1
+,,,,,,,,,,,,,,,,,,,,,
+Marshall Islands,Majuro,7.1,171.383333,Pacific/Majuro,1563695784,Humid and Mostly Cloudy,partly-cloudy-night,0,0,84.66,93.75,75.8,0.75,1009.18,5.13,5.13,55,0.59,0,10,256.7
+,,,,,,,,,,,,,,,,,,,,,
+Mauritania,Nouakchott,18.06666667,-15.966667,Africa/Nouakchott,1563695787,Clear,clear-day,0,0,78.85,79.69,67.95,0.69,1013.5,9.57,12.06,236,0,1,10,281.4
+,,,,,,,,,,,,,,,,,,,,,
+Mauritius,Port Louis,-20.15,57.483333,Indian/Mauritius,1563695789,Clear,clear-day,0,0.001,0.03,rain,78.61,79.07,64.4,0.62,1016.29,8.99,10.07,39,0.06,7
+,,,,,,,,,,,,,,,,,,,,,
+Mexico,Mexico City,19.43333333,-99.133333,America/Mexico_City,1563695792,Mostly Cloudy,partly-cloudy-night,0,0.019,0.21,rain,60.17,60.17,49.79,0.69,1017.78,4.77,4.77,276,0.71,0
+,,,,,,,,,,,,,,,,,,,,,
+Federated States of Micronesia,Palikir,6.916666667,158.15,Pacific/Pohnpei,1563695794,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.04,rain,77.66,79.68,76.66,0.97,1009.12,3.08,4.99,102,0.32,0
+,,,,,,,,,,,,,,,,,,,,,
+Moldova,Chisinau,47,28.85,Europe/Chisinau,1563695797,Clear,clear-day,0,0,80.45,82.23,64.8,0.59,1018.83,0.32,5.48,279,0.05,6,6.216,325.5
+,,,,,,,,,,,,,,,,,,,,,
+Monaco,Monaco,43.73333333,7.416667,Europe/Monaco,1563695799,Humid and Partly Cloudy,partly-cloudy-day,0,0,75.99,77.56,73.13,0.91,1020.28,4.75,4.93,80,0.47,3,6.216,318.8
+,,,,,,,,,,,,,,,,,,,,,
+Mongolia,Ulaanbaatar,47.91666667,106.916667,Asia/Ulaanbaatar,1563695801,Mostly Cloudy,partly-cloudy-day,0,0.002,0.05,rain,85.92,85.92,47.76,0.27,1000.58,7.87,7.87,167,0.63,4
+,,,,,,,,,,,,,,,,,,,,,
+Montenegro,Podgorica,42.43333333,19.266667,Europe/Podgorica,1563695803,Clear,clear-day,0,0,84.47,84.47,55.66,0.37,1020.2,4.72,4.72,69,0.01,5,6.22,314.2
+,,,,,,,,,,,,,,,,,,,,,
+Montserrat,Plymouth,16.7,-62.216667,America/Montserrat,1563695806,Humid and Partly Cloudy,partly-cloudy-night,0,0.002,0.1,rain,80.29,85.25,74.49,0.83,1014.48,15.45,18.81,90,0.38,0
+,,,,,,,,,,,,,,,,,,,,,
+Morocco,Rabat,34.01666667,-6.816667,Africa/Casablanca,1563695808,Mostly Cloudy,partly-cloudy-day,0,0,72.99,73.71,66.15,0.79,1017.29,0.18,7.89,330,0.69,2,3.108,310.9
+,,,,,,,,,,,,,,,,,,,,,
+Mozambique,Maputo,-25.95,32.583333,Africa/Maputo,1563695810,Clear,clear-day,0,0,66.65,66.65,39,0.36,1031.61,22.56,22.97,178,0.01,3,6.216,285.2
+,,,,,,,,,,,,,,,,,,,,,
+Namibia,Windhoek,-22.56666667,17.083333,Africa/Windhoek,1563695813,Clear,clear-day,0,0,50.89,50.89,4.41,0.15,1023.67,6,9.99,104,0,2,6.216,256.9
+,,,,,,,,,,,,,,,,,,,,,
+Nepal,Kathmandu,27.71666667,85.316667,Asia/Kathmandu,1563695815,Mostly Cloudy,partly-cloudy-day,0,0.057,0.18,rain,85,88.11,67.64,0.56,1004.3,6.04,6.04,264,0.69,7
+,,,,,,,,,,,,,,,,,,,,,
+Netherlands,Amsterdam,52.35,4.916667,Europe/Amsterdam,1563695817,Partly Cloudy,partly-cloudy-day,0,0,68.65,68.65,54.74,0.61,1018.96,14.75,14.82,303,0.29,3,6.216,345.7
+,,,,,,,,,,,,,,,,,,,,,
+New Caledonia,Noumea,-22.26666667,166.45,Pacific/Noumea,1563695819,Mostly Cloudy,partly-cloudy-night,0,0,0,65.82,65.82,54.68,0.67,1017.12,9.67,13.97,134,0.85,0,6.216
+,,,,,,,,,,,,,,,,,,,,,
+New Zealand,Wellington,-41.3,174.783333,Pacific/Auckland,1563695820,Possible Light Rain,rain,0,0.021,0.49,rain,50.35,50.35,48.29,0.93,1009.47,4.85,6.9,55,1,0
+,,,,,,,,,,,,,,,,,,,,,
+Nicaragua,Managua,12.13333333,-86.25,America/Managua,1563695823,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.04,rain,78.26,79.73,72.96,0.84,1009.62,7.82,24.16,89,0.37,0
+,,,,,,,,,,,,,,,,,,,,,
+Niger,Niamey,13.51666667,2.116667,Africa/Niamey,1563695824,Humid and Partly Cloudy,partly-cloudy-day,0,0,81.22,86.45,73.54,0.78,1012.7,6.54,11.43,208,0.19,3,2.175,274.6
+,,,,,,,,,,,,,,,,,,,,,
+Nigeria,Abuja,9.083333333,7.533333,Africa/Lagos,1563695826,Partly Cloudy,partly-cloudy-day,0,0,71.4,72.32,67.27,0.87,1014.96,5.69,5.69,206,0.14,4,6.216,273
+,,,,,,,,,,,,,,,,,,,,,
+Niue,Alofi,-19.01666667,-169.916667,Pacific/Niue,1563695828,Possible Light Rain and Humid,rain,0,0.032,0.49,rain,78.02,80.64,77.09,0.97,1008.97,8.12,27.26,312,0.95,0
+,,,,,,,,,,,,,,,,,,,,,
+Norfolk Island,Kingston,-29.05,167.966667,Pacific/Norfolk,1563695830,Mostly Cloudy,partly-cloudy-night,0,0.001,0.12,rain,60.78,60.78,53.41,0.77,1017.47,14.27,21.64,180,0.75,0
+,,,,,,,,,,,,,,,,,,,,,
+Northern Mariana Islands,Saipan,15.2,145.75,Pacific/Saipan,1563695832,Humid,clear-day,0,0,83.94,92.11,75.27,0.75,1011.26,9.4,9.4,127,0.09,0,8.927,269.7
+,,,,,,,,,,,,,,,,,,,,,
+Norway,Oslo,59.91666667,10.75,Europe/Oslo,1563695833,Rain,rain,0,0.101,0.76,rain,61.45,61.54,58.56,0.9,1008.67,3.42,8.93,108,0.75,2
+,,,,,,,,,,,,,,,,,,,,,
+Oman,Muscat,23.61666667,58.583333,Asia/Muscat,1563695835,Humid,clear-day,0,0,89.83,104.42,78.08,0.69,1000.76,11.73,12.23,77,0.01,12,4.974,278
+,,,,,,,,,,,,,,,,,,,,,
+Pakistan,Islamabad,33.68333333,73.05,Asia/Karachi,1563695837,Partly Cloudy,partly-cloudy-day,0,0.001,0.04,rain,89.26,94.42,69.75,0.53,1002,4.88,5.06,137,0.45,8
+,,,,,,,,,,,,,,,,,,,,,
+Palau,Melekeok,7.483333333,134.633333,Pacific/Palau,1563695838,Humid and Mostly Cloudy,partly-cloudy-day,0,0.008,0.11,rain,86.11,95.46,75.3,0.7,1007.1,9.19,15.58,283,0.76,1
+,,,,,,,,,,,,,,,,,,,,,
+Panama,Panama City,8.966666667,-79.533333,America/Panama,1563695840,Humid and Partly Cloudy,partly-cloudy-night,0,0,0,76.73,78.57,75.18,0.95,1007.33,0,8.25,236,0.23,0,6.4
+,,,,,,,,,,,,,,,,,,,,,
+Papua New Guinea,Port Moresby,-9.45,147.183333,Pacific/Port_Moresby,1563695842,Mostly Cloudy,partly-cloudy-day,0,0,79.13,82.33,71.97,0.79,1009.83,12.52,18.2,146,0.55,0,6.216,248.8
+,,,,,,,,,,,,,,,,,,,,,
+Paraguay,Asuncion,-25.26666667,-57.666667,America/Asuncion,1563695844,Partly Cloudy,partly-cloudy-night,0,0,71.95,71.95,59.02,0.64,1008.17,13.7,35.67,59,0.25,0,6.216,269.6
+,,,,,,,,,,,,,,,,,,,,,
+Peru,Lima,-12.05,-77.05,America/Lima,1563695846,Partly Cloudy,partly-cloudy-night,0,0,0,58.62,58.62,54.02,0.85,1013.48,4.79,6,125,0.38,0,5.643
+,,,,,,,,,,,,,,,,,,,,,
+Philippines,Manila,14.6,120.966667,Asia/Manila,1563695847,Humid and Mostly Cloudy,partly-cloudy-day,0,0.008,0.14,rain,86.68,97.06,75.99,0.71,1006.66,8.87,8.87,324,0.75,3
+,,,,,,,,,,,,,,,,,,,,,
+Pitcairn Islands,Adamstown,-25.06666667,-130.083333,Pacific/Pitcairn,1563695850,Mostly Cloudy,partly-cloudy-night,0,0.001,0.07,rain,63.85,63.85,54.34,0.71,1019.43,10.52,11.29,164,0.69,0
+,,,,,,,,,,,,,,,,,,,,,
+Poland,Warsaw,52.25,21,Europe/Warsaw,1563695851,Partly Cloudy,partly-cloudy-day,0,0,0,73.56,73.56,59.38,0.61,1015.28,5.23,10.05,223,0.36,4,6.216
+,,,,,,,,,,,,,,,,,,,,,
+Portugal,Lisbon,38.71666667,-9.133333,Europe/Lisbon,1563695853,Partly Cloudy,partly-cloudy-day,0,0,70.18,70.32,61.01,0.73,1019.12,9.55,19.32,343,0.19,2,6.216,314.2
+,,,,,,,,,,,,,,,,,,,,,
+Puerto Rico,San Juan,18.46666667,-66.116667,America/Puerto_Rico,1563695854,Humid and Mostly Cloudy,partly-cloudy-night,13,313,0,0,79.77,83.95,73.68,0.82,1015.4,0.47,0.78,129,0.53,0
+,,,,,,,,,,,,,,,,,,,,,
+Qatar,Doha,25.28333333,51.533333,Asia/Qatar,1563695858,Clear,clear-day,0,0,100.82,108.31,69.41,0.37,999.67,7.37,7.37,52,0,12,5.289,282.7
+,,,,,,,,,,,,,,,,,,,,,
+Romania,Bucharest,44.43333333,26.1,Europe/Bucharest,1563695862,Clear,clear-day,0,0,81.54,83.5,65.46,0.58,1019.08,4.33,4.33,81,0,6,6.216,315.8
+,,,,,,,,,,,,,,,,,,,,,
+Russia,Moscow,55.75,37.6,Europe/Moscow,1563695864,Mostly Cloudy,partly-cloudy-day,0,0,68.01,68.01,56.49,0.67,1015.8,9.46,12.57,291,0.72,4,6.61,336.1
+,,,,,,,,,,,,,,,,,,,,,
+Rwanda,Kigali,-1.95,30.05,Africa/Kigali,1563695875,Partly Cloudy,partly-cloudy-day,0,0.003,0.06,rain,72.41,72.41,56.35,0.57,1013.79,3.73,7.66,155,0.26,7
+,,,,,,,,,,,,,,,,,,,,,
+Saint Barthelemy,Gustavia,17.88333333,-62.85,America/St_Barthelemy,1563695878,Partly Cloudy,partly-cloudy-night,0,0.007,0.11,rain,81.36,85.86,71.95,0.73,1014.93,8.24,19.25,78,0.3,0
+,,,,,,,,,,,,,,,,,,,,,
+Saint Helena,Jamestown,-15.93333333,-5.716667,Atlantic/St_Helena,1563695880,Partly Cloudy,partly-cloudy-day,0,0,66.91,66.95,59.73,0.78,1019.44,13.43,15.05,145,0.31,0,10,257.2
+,,,,,,,,,,,,,,,,,,,,,
+Saint Kitts and Nevis,Basseterre,17.3,-62.716667,America/St_Kitts,1563695883,Partly Cloudy,partly-cloudy-night,0,0.005,0.14,rain,78.64,79.69,69.7,0.74,1014.63,3.58,18.76,89,0.19,0
+,,,,,,,,,,,,,,,,,,,,,
+Saint Lucia,Castries,14,-61,America/St_Vincent,1563695885,Humid and Partly Cloudy,partly-cloudy-night,0,0.001,0.06,rain,79.14,82.53,72.69,0.81,1013.85,14.33,20.26,110,0.45,0
+,,,,,,,,,,,,,,,,,,,,,
+Saint Pierre and Miquelon,Saint-Pierre,46.76666667,-56.183333,America/St_Johns,1563695887,Mostly Cloudy,partly-cloudy-night,0,0,0,54.01,54.01,51.83,0.92,1005.65,9.43,9.84,143,0.6,0,10
+,,,,,,,,,,,,,,,,,,,,,
+Saint Vincent and the Grenadines,Kingstown,13.13333333,-61.216667,America/St_Vincent,1563695889,Humid and Partly Cloudy,partly-cloudy-night,0,0.005,0.11,rain,79.98,84.59,74.33,0.83,1013.19,13.6,18.18,80,0.22,0
+,,,,,,,,,,,,,,,,,,,,,
+Samoa,Apia,-13.81666667,-171.766667,Pacific/Apia,1563695891,Humid and Partly Cloudy,partly-cloudy-night,0,0,80.35,85.32,74.4,0.82,1010.53,5.29,8.92,61,0.29,0,6.216,244.4
+,,,,,,,,,,,,,,,,,,,,,
+San Marino,San Marino,43.93333333,12.416667,Europe/San_Marino,1563695893,Partly Cloudy,partly-cloudy-day,0,0,82.48,82.59,59.29,0.45,1019.61,2.67,6.16,135,0.42,4,6.216,318.4
+,,,,,,,,,,,,,,,,,,,,,
+Sao Tome and Principe,Sao Tome,0.333333333,6.733333,Africa/Sao_Tome,1563695898,Humid and Mostly Cloudy,partly-cloudy-day,0,0.004,0.05,rain,77.9,79.41,73.24,0.86,1015.79,3.32,6.66,184,0.58,2
+,,,,,,,,,,,,,,,,,,,,,
+Saudi Arabia,Riyadh,24.65,46.7,Asia/Riyadh,1563695900,Clear,clear-day,0,0,104.69,104.69,39.43,0.11,1002.96,15.93,18.86,12,0.01,12,6.216,282.5
+,,,,,,,,,,,,,,,,,,,,,
+Senegal,Dakar,14.73333333,-17.633333,Africa/Dakar,1563695902,Humid and Partly Cloudy,partly-cloudy-day,0,0,77.22,78.77,73.34,0.88,1013.95,4.34,4.34,277,0.48,0,4.974,280.1
+,,,,,,,,,,,,,,,,,,,,,
+Serbia,Belgrade,44.83333333,20.5,Europe/Belgrade,1563695908,Clear,clear-day,0,0,85.07,85.7,62.23,0.46,1019.08,0,3.03,73,0.1,5,6.216,318.1
+,,,,,,,,,,,,,,,,,,,,,
+Seychelles,Victoria,-4.616666667,55.45,Indian/Mahe,1563695910,Humid and Partly Cloudy,partly-cloudy-day,0,0.001,0.05,rain,83.4,89.88,73.55,0.72,1011.74,8.38,13.4,144,0.13,10
+,,,,,,,,,,,,,,,,,,,,,
+Sierra Leone,Freetown,8.483333333,-13.233333,Africa/Freetown,1563695912,Partly Cloudy,partly-cloudy-day,0,0.001,0.07,rain,75.85,77.16,71.22,0.86,1014.22,8.59,8.59,123,0.16,1
+,,,,,,,,,,,,,,,,,,,,,
+Singapore,Singapore,1.283333333,103.85,Asia/Singapore,1563695915,Humid and Mostly Cloudy,partly-cloudy-day,0,0.002,0.05,rain,85.05,95.54,76.92,0.77,1006.9,11.05,11.28,203,0.71,4
+,,,,,,,,,,,,,,,,,,,,,
+Sint Maarten,Philipsburg,18.01666667,-63.033333,America/Lower_Princes,1563695930,Humid and Partly Cloudy,partly-cloudy-night,0,0.007,0.11,rain,82.05,87.41,72.88,0.74,1015.02,10.22,19.92,79,0.27,0
